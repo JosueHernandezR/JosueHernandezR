@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josué Hernández</h1>
-<h3 align="center">A passionate frontend and movile developer from Mexico</h3>
+<h3 align="center">A passionate frontend and mobile developer from Mexico</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josuehernandezr" alt="josuehernandezr" /></a> </p>
 
