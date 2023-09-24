@@ -22,9 +22,9 @@
     </a>
 </p>
 
-- 🔭 &nbsp;I’m currently working on [Geek Inc](https://www.geekinc.mx)
+- 🔭 &nbsp;I’m currently working on [GAFSACOMM](https://grupoolmecamayamexica.com.mx/)
 
-- 🌱 &nbsp;I’m currently learning **Flutter, React and API REST**
+- 🌱 &nbsp;I’m currently learning **NextJS, React and Docker**
 
 - 📫 &nbsp;How to reach me **josuehernandezr082@gmail.com**
 
