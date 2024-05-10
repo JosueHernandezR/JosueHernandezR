@@ -26,7 +26,7 @@
 
 - 🌱 &nbsp;I’m currently learning **NextJS, React and Docker**
 
-- 📫 &nbsp;How to reach me **josuehernandezr082@gmail.com**
+- 📫 &nbsp;How to reach me **contact@josuehernandez.dev**
 
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/josué-hernández/)
 
